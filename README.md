@@ -7,7 +7,7 @@ This is a simple React portfolio website built using React, styled-components, a
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/daniel-ndeto/react-portfolio.git
+    git clone https://github.com/anmolsharma2005-web/portfolio
     cd react-portfolio 📁
     ```
 
@@ -15,8 +15,8 @@ This is a simple React portfolio website built using React, styled-components, a
     
     ```bash
 
-    # Using yarn 🧶
-    yarn install 
+    # Using git init 🧶
+    npm install 
 
     ```
 
@@ -24,9 +24,7 @@ This is a simple React portfolio website built using React, styled-components, a
 
 1.  **Start the application:**
     
-    ```bash
-    # yarn 🧶
-    yarn start 🚀
+    ``` npm start 🚀
     ```
 
 ## Give it a star ⭐
