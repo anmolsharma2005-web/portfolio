@@ -15,7 +15,7 @@ This is a simple React portfolio website built using React, styled-components, a
     
     ```bash
 
-    # Using git init 🧶
+    # Using  🧶
     npm install 
 
     ```
@@ -24,7 +24,8 @@ This is a simple React portfolio website built using React, styled-components, a
 
 1.  **Start the application:**
     
-    ``` npm start 🚀
+    ``` 
+    npm start 🚀
     ```
 
 ## Give it a star ⭐
